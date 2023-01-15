@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TradingTools.Cli", "src\TradingTools.Cli\TradingTools.Cli.fsproj", "{74ABA78C-836A-468E-A2D2-43B12535BBCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingTools.Db.Migrations", "src\TradingTools.Db.Migrations\TradingTools.Db.Migrations.csproj", "{B6854773-59EC-4F8B-B2FE-B00296EAC295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74ABA78C-836A-468E-A2D2-43B12535BBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74ABA78C-836A-468E-A2D2-43B12535BBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74ABA78C-836A-468E-A2D2-43B12535BBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74ABA78C-836A-468E-A2D2-43B12535BBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6854773-59EC-4F8B-B2FE-B00296EAC295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6854773-59EC-4F8B-B2FE-B00296EAC295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6854773-59EC-4F8B-B2FE-B00296EAC295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6854773-59EC-4F8B-B2FE-B00296EAC295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
